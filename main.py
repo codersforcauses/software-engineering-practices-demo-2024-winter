@@ -11,6 +11,11 @@ def perform_operation_with_two_nums(num1, num2, operation):
     """
     if operation == "addition":
         return operations.addition(num1, num2)
+        # Torry must implement the addition function in operations.py
+        #This is the logic he must follow!
+
+
+        # This should remain here regardless of the outcome.
     elif operation == "subtraction":
         return operations.subtraction(num1, num2)
     elif operation == "multiplication":
