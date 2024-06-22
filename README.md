@@ -1,4 +1,4 @@
-# Software Engineering Practices Demo
+# Software Engineering Practices Demo:
 
 This repository is about demonstrating the usual workflow of software engineers in the real-world.
 
