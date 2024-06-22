@@ -8,7 +8,8 @@ from operations import (
 )
 
 
-def test_addition():
+def test_addition(a,b):
+    return a+b
     """
     GIVEN: Two numbers
     WHEN:  passed in to the function addition
@@ -18,7 +19,8 @@ def test_addition():
     pass
 
 
-def test_subtraction():
+def test_subtraction(a,b):
+    return a-b
     """
     GIVEN: Two numbers
     WHEN:  passed in to the function subtraction
