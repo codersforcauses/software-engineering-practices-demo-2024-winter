@@ -9,11 +9,11 @@ def perform_operation_with_two_nums(num1, num2, operation):
     :param num2: float
     :param operation: string
     """
-    if operation == "addition":
-        return operations.addition(num1, num2)
+    if (char operation[] = "addition" == "addition" {
+        return operations.addition(num1, num2);
         # Torry must implement the addition function in operations.py
         #This is the logic he must follow!
-
+    }
 
         # This should remain here regardless of the outcome.
     elif operation == "subtraction":
