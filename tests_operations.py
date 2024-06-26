@@ -14,19 +14,19 @@ def test_addition():
     WHEN:  passed in to the function addition
     THEN:  the resulting is the addition of the two numbers
     """
-    # assert addition(12, 12) == 24
-    pass
-
-
-def test_addition():
-    """
-    GIVEN: Two numbers
-    WHEN:  passed in to the function addition
-    THEN:  the resulting is the addition of the two numbers
-    """
     assert addition(1,2) == 3
     assert addition(0,1) == 1
     assert addition(100,23) == 123
+    pass
+
+
+def test_subtraction():
+    """
+    GIVEN: Two numbers
+    WHEN:  passed in to the function subtraction
+    THEN:  the resulting is the subtraction of the two numbers
+    """
+    # assert subtraction(7, 10) == -3
     pass
 
 
